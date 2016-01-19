@@ -84,7 +84,8 @@ That list of divisions is the “standard” format, but even if sections don't 
 ## <a name="definitions"></a>Definitions of terms helpful for understanding eRegulations
 
 * **Act:** An act of Congress, i.e. the law. Acts generally provide authority to agencies to create and enforce regulations, giving the general outline of what needs to be enforced but allowing agencies to define the peculiarities.
-Agency: An arm of the federal government, which (for our purposes) defines and enforces regulations.
+
+* **Agency:** An arm of the federal government, which (for our purposes) defines and enforces regulations.
 
 * **Annual Edition:** Regulations are published in their entirety once a year in this edition. If there are multiple effective changes within a single year, individuals must pay attention and combine the relevant rules. Annual editions are not all published (as one might expect) once a year, across all agencies. Instead, the regulations are grouped into four chunks and released in January, April, July, and October.
 
